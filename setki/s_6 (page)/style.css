@@ -1,0 +1,83 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 450px;
+  height: 335px;
+
+  font-size: 10px;
+  font-family: "Arial", sans-serif;
+  color: white;
+}
+
+.mo {
+  background-color: #34495e;
+  }
+.krasn{
+  background-color:#c0392b;
+  }
+.ciniy{
+  background-color:#3498db;
+  }
+  
+.header{
+    clear:both;}
+.col-1{
+  float: left;
+  width: 345px;
+  min-height: 25px;
+  padding: 5px 0 5px 5px;
+  margin: 10px 15px 10px 50px;
+  }
+.col-2{
+  clear: both;
+  min-height: 25px;
+  max-width:450px;
+  padding: 5px 0 5px 55px;
+  margin: 0px;
+  }  
+
+.col-3{
+  float:left;
+  height: 50px;
+  width:165px;
+  padding: 5px 0 5px 5px;
+  margin: 10px 0px 0px 50px;
+  
+  }
+.col-4{
+
+  float:right;
+  height: 50px;
+  width: 115px;
+  padding: 5px 50px 5px 5px;
+  margin: 10px 50px 10px 10px;
+  }
+
+.colum{
+     float: left;
+    width: 65px;
+    min-height: 105px;
+    padding-left: 5px;
+    padding-top: 5px;
+    margin: 10px 10px 10px 0px;
+  }
+.colum1{
+  margin-left: 50px;
+  }
+.colum2{
+  width: 185px;
+  }
+
+.table{
+   display: table;
+  }
+.footer{
+   max-width:450px;
+  min-height: 25px;
+  padding: 5px 0 5px 55px;
+
+  }

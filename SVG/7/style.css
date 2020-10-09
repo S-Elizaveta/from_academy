@@ -1,0 +1,21 @@
+svg {
+    border: 1px solid #dddddd;
+  }
+  .tomato{
+    fill: none;
+    stroke: tomato;
+    stroke-width: 150;
+    stroke-dasharray: 15;
+    }
+  .darkorange{
+      fill: none;
+    stroke: darkorange;
+    stroke-width: 125;
+    stroke-dasharray: 10;
+    }
+  .orange{
+    fill: gold;
+    stroke: gold;
+    stroke-width: 75;
+    stroke-dasharray: 15 10;
+    }

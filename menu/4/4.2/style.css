@@ -1,0 +1,59 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 280px;
+  min-height: 280px;
+  padding-top: 20px;
+  padding-left: 20px;
+
+  font-size: 14px;
+  line-height: 1.2;
+  font-family: "Arial", sans-serif;
+
+  background-color: #ecf0f1;
+}
+
+section{
+  margin: 0px;
+  padding: 20px 20px;
+  width: 200px;
+  min-height: 100px;
+ 
+  background-color: #1abc9c;
+  }
+section .title a{
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 20px;
+}
+section .desc{
+  padding: 6px 0;
+  color: #ffffff; 
+  }
+.social{
+  display: inline-block;
+  margin-top: 5px;
+  margin-right: 5px;
+  margin-bottom: -3px;
+  width: 30px;
+  height: 30px;
+  background-color:#16a085;
+  }
+.img{
+    background-image: url('social-challenge.png');
+    background-size:  auto 100%;
+    background-repeat:no-repeat;
+}
+.links .fb{
+  background-position: -2px 0;
+  }
+.links .tw{
+  background-position: -42px 0;
+  }
+.links .gm{
+  background-position: -81px 0;
+  }
